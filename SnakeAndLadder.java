@@ -4,7 +4,7 @@
 * @author  Bathala Haresh
 */
 
-public class Main
+public class SnakesAndLadders
 {
 	public static void main(String[] args) {
 		
