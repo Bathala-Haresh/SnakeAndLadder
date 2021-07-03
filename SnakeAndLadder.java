@@ -1,5 +1,5 @@
 /**
-* This program is repeating till the user position reaches 100.
+* This program is ensuring repeating till getting exact position 100
 *
 * @author  BathalaHaresh
 */
